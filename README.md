@@ -28,7 +28,7 @@ FastAPI · MySQL · PostgreSQL · MongoDB · SQL · JDBC
 Generative AI · AI APIs · building AI-powered applications
 
 **Tools**
-Git & GitHub · VS Code · MySQL Workbench
+VS Code · PyCharm · Python IDLE · MySQL Workbench · pgAdmin 4 · SQLite · Git & GitHub
 
 ---
 
